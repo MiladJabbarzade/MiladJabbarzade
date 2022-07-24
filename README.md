@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Milad Jabbarzade</h1>
 <h3 align="center">A self-taught iOS Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=huyparody&label=Profile%20views&color=0e75b6&style=flat" alt="huyparody" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MiladJabbarzade&label=Profile%20views&color=0e75b6&style=flat" alt="huyparody" /> </p>
 
 
 - 🔭 I’m currently working at [Saman Bank]()
