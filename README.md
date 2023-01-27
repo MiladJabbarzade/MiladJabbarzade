@@ -7,6 +7,7 @@
 - 🔭 I’m currently working at [Saman Bank]()
 
 - 📫 How to reach me **jabbarzade.mi@gmail.com**
+- 🖇 Resume [https://rxresu.me/meeladu/milad]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
