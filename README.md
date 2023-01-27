@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at [Saman Bank]()
 
-- 📫 How to reach me **meelad.u@icloud.com** or **milad.jabbarzade1998@gmail.com**
+- 📫 How to reach me **jabbarzade.mi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
