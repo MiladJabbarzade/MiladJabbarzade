@@ -4,10 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MiladJabbarzade&label=Profile%20views&color=0e75b6&style=flat" alt="huyparody" /> </p>
 
 
-- 🔭 I’m currently working at [Saman Bank]()
+- 🔭 I’m currently working at [Saman Bank](https://mobillet.ir)
 
 - 📫 How to reach me **jabbarzade.mi@gmail.com**
-- 🖇 Resume [https://rxresu.me/meeladu/milad]()
+- 🖇 Resume [Milad](https://rxresu.me/meeladu/milad)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
